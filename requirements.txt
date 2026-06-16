@@ -1,0 +1,6 @@
+gymnasium[classic-control]
+stable-baselines3[extra]
+matplotlib
+pandas
+openai
+python-dotenv

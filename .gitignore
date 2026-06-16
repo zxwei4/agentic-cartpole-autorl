@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+
+# Large model files
+models/
+*.zip
+
+# System files
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# results
+results/agentic_history.json
+results/agentic_reward_curve.png
+results/final_report.md
+results/llm_agentic_history.json
